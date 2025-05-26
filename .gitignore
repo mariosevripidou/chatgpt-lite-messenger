@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ChatGPT Lite Messenger specific
+last_chat.json
+chat_history_*.txt
+.env
