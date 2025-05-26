@@ -46,3 +46,8 @@ Type exit or quit to end your session. Your conversation will be saved automatic
 - .env – API key loader (excluded from GitHub)
 - last_chat.json – Automatically created to persist last conversation
 - chat_history_*.txt – Auto-saved chat logs
+
+## Notes
+
+The .env file should follow the format:
+OPENAI_API_KEY=openai-api-key-goes-here
