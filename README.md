@@ -1,6 +1,6 @@
 # ChatGPT Lite Messenger
 
-A lightweight, customizable terminal-based messenger that uses OpenAI's GPT models using their API. Choose your preferred model and personality, and chat directly in the terminal. Designed for personal use and experimentation.
+A lightweight, customizable terminal-based messenger that uses OpenAI's GPT models via API. Choose your preferred model and personality, and chat directly in the terminal. Designed for personal use and experimentation.
 
 ## Features
 
