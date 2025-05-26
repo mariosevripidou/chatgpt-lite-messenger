@@ -24,7 +24,7 @@ pip install openai python-dotenv colorama
 
 ## Setup
 ```
-git clone https://github.com/mariosevripidou/chatgpt-lite-messenger/tree/main
+git clone https://github.com/mariosevripidou/chatgpt-lite-messenger
 cd chatgpt-lite-messenger
 ```
 
